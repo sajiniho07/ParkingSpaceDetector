@@ -8,7 +8,6 @@ public class ParkingSpaceDetectorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ParkingSpaceDetectorApplication.class, args);
-
 	}
 
 }
